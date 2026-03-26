@@ -124,7 +124,7 @@ def visualize():
 
 with gr.Blocks(title="Sleep Cycle Analyzer") as app:
 
-    gr.Markdown("# 💤 Sleep Cycle Analyzer")
+    gr.Markdown("#  Sleep Cycle Analyzer")
     gr.Markdown("Track your sleep patterns and generate weekly reports.")
 
     with gr.Row():
